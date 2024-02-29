@@ -1,0 +1,6 @@
+测试前提：
+1.在jira上依次点击apps、manage apps，搜索github，然后进行github账户认证，身份认证；
+2.按照提示在github上添加jira plugin。
+测试步骤：
+1.github上新增文件；
+2.github上提交活动时如何关联jira；
